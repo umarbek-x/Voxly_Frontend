@@ -106,3 +106,17 @@ body {
 .auth-link:hover {
   text-decoration: underline;
 }
+
+.error-message {
+  background: rgba(239, 68, 68, 0.15);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+
+  color: #ef4444;
+
+  padding: 10px;
+  margin-bottom: 12px;
+
+  border-radius: 8px;
+
+  font-size: 14px;
+}
