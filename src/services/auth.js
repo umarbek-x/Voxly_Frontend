@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/api/v0.1/admin";
+const API_URL = "http://192.168.100.55:8080/api/v0.1/admin";
 
 
 export async function login(email, password) {
